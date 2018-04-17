@@ -1,0 +1,252 @@
+body{
+	margin:auto;
+}
+.navigation{
+	width: 100%;
+	height: 2.54cm;
+	background-color: #2194f1;
+}
+.logo-pic{
+	margin-top: 0.49cm;
+	margin-left: 1.34cm;
+	height: 1.94cm;
+	width: 2.0cm;
+}
+.nav-bar{
+	margin-top: 30px;
+	margin-right: 1.34cm;
+	float: right;
+	text-align: center;
+}
+.nav-btn{
+	margin-right:1cm;
+	text-decoration: none;
+}
+.nav-bar a{
+	font-family: poppinsemibold; 
+	color: white;
+}
+.hero-unit{
+	margin-top: 0;
+	height:13.2cm;
+	background-color: #2194f1;
+}
+.content1{
+	margin-left: 3.63cm;
+	padding-top: 2cm;
+}
+h3,h1,h2{
+	margin:0;
+}
+.content1 .big{
+	font-family: poppinextralight;
+	font-size: 48.06pt;
+	margin-bottom: 0px;
+	margin-top: 0px;
+}
+.content1 .small{
+	font-family: poppinlight;
+	font-size: 15pt;
+	margin-bottom: 0px;
+	margin-top: 0px;
+}
+.content1 {
+	color:white;
+	width: 600px;
+	height: 140px;
+}
+.devices{
+	height: 588.09448819px;
+	float: right;
+}
+.btn-transpaent{
+	margin-top: 20px;
+	width: 5cm;
+	background:  transparent;
+    height:  1.2cm;
+    border:  2px solid white;
+    padding:  0px!important;
+    font-size:  14pt;
+    color:  #fff;
+    border-radius: 12px;
+    margin-right: 20px;
+    font-family: poppinbold;
+}
+.btn-white{
+	margin-top: 20px;
+	width: 5cm;
+	background-color:white;
+    height:  1.2cm;
+    border:  2px solid white;
+    padding:  0px!important;
+    font-size:  14pt;
+    color:  #2194f1;
+    border-radius: 12px;
+    font-family: poppinbold;
+	
+}
+.about{
+	height: 574.48818898px;
+	width: 774.80314961px;
+}
+.about-title{
+	padding-top: 104.5511811px;
+	margin-left: 138.70866142px;
+	margin-bottom: 0px;
+	font-family: poppinextralight;
+	font-size: 36pt;
+}
+.about-content{
+	font-size: 12pt;
+	margin-left: 138.70866142px;
+	font-family: montregular;
+}
+.about-title p{
+	margin: 0px;
+}
+.features{
+	background-color:#2194f1;
+	height:650px;
+	overflow: hidden;
+}
+.features-title{
+	height: 188.97637795px;
+	text-align: center;
+	padding-top: 61.228346457px;
+	font-family: poppinextralight;
+	font-size: 36pt;
+}
+.features-title p{
+	margin: 0px;
+	color: white;
+}
+.features-content1{
+	height: 400px;
+	background-color:#2194f1;
+	width:554px;
+	float: left;
+}
+.features-content2{
+	background-color:#2194f1;
+	overflow: hidden;
+	float: left;
+}
+.features-content3{
+	height: 400px;
+	background-color:#2194f1;
+	width:554px;
+	float: right;
+	
+}
+.features-body, .features-cloud{
+	float: right;
+	margin-right: 35px;
+	margin-top: 50px;
+}
+.features-body-right, .cloud-right{
+	margin-top: 50px;
+	margin-left: 35px;
+}
+.features-body-right p{
+	margin: 0px;
+	color: white;
+	text-align: right;
+}
+.features-body-right{
+	float:left;
+}
+.features-cloud{
+	width: 56px;
+	height:56px;
+}
+.cloud-right{
+
+	width: 56px;
+	height:56px;
+}
+.features-body p{
+	margin:0px;
+	color: white;
+}
+.features-body .title,.features-body-right .title{
+	font-family: poppinextralight;
+	font-size: 10pt;
+}
+.features-phone{
+	height: 481.5px;
+}
+.features .paragraph{
+	font-family:montregular;
+	font-size:9pt;
+}
+.download{
+	
+	height: 361.32px;
+	width: 100%;
+	background-color: #fff;
+}
+.banners{
+	padding-top: 71px;
+	text-align: center;
+}
+
+.download-banner1{
+	font-family: montregular;
+	font-size: 20pt;}
+.download-banner1 p {
+	margin-top:0px; 
+}
+.download-banner2{
+	font-family: montregular;
+	font-size: 10pt;
+}
+.android{
+	width: 60px;
+	height: 60px;
+	padding: 20px;
+}
+.apple{
+	padding: 20px;
+	width: 60px;
+	height: 60px;
+}
+.creative{
+	color:#2194f1;
+}
+footer{
+	text-align: center;
+	height: 133.4px;
+	background-color: #2194f1;
+	font-family: poppinlight;
+	color: white;
+	
+}
+.footer-logo{
+	padding-top: 32px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 40px;
+	height: 40px;
+}
+
+@font-face {
+    font-family: poppinextralight;
+    src: url(../fonts/poppins/Poppins-ExtraLight.otf);
+}
+@font-face {
+    font-family: poppinlight;
+    src: url(../fonts/poppins/Poppins-Light.otf);
+}
+@font-face {
+    font-family: poppinsemibold;
+    src: url(../fonts/poppins/Poppins-SemiBold.otf);
+}
+@font-face {
+    font-family: poppinbold;
+    src: url(../fonts/poppins/Poppins-Bold.otf);
+}
+@font-face {
+    font-family: montregular;
+    src: url(../fonts/poppins/Montserrat-Regular.otf);
+}
